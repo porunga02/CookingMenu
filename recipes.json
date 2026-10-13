@@ -1,0 +1,149 @@
+[
+  {
+    "name": "肉じゃが",
+    "ingredients": ["じゃがいも", "玉ねぎ", "にんじん", "牛肉", "こんにゃく"],
+    "time": 20,
+    "type": "和食",
+    "url": "https://www.kikkoman.co.jp/homecook/search/recipe/00007345/"
+  },
+  {
+    "name": "親子丼",
+    "ingredients": ["鶏もも肉", "玉ねぎ", "卵", "ごはん"],
+    "time": 15,
+    "type": "和食",
+    "url": "https://www.kikkoman.co.jp/homecook/search/recipe/00054362/"
+  },
+  {
+    "name": "豚肉の生姜焼き",
+    "ingredients": ["豚肉", "玉ねぎ"],
+    "time": 15,
+    "type": "和食",
+    "url": "https://www.kikkoman.co.jp/homecook/search/recipe/00006470/"
+  },
+  {
+    "name": "鮭のホイル焼き",
+    "ingredients": ["鮭", "にんじん", "しめじ", "バター"],
+    "time": 15,
+    "type": "和食",
+    "url": "https://www.kikkoman.co.jp/homecook/search/recipe/00050751/"
+  },
+  {
+    "name": "ぶり大根",
+    "ingredients": ["ぶり", "大根"],
+    "time": 45,
+    "type": "和食",
+    "url": "https://www.kikkoman.co.jp/homecook/search/recipe/00055176/"
+  },
+  {
+    "name": "さばのみそ煮",
+    "ingredients": ["さば", "ねぎ"],
+    "time": 20,
+    "type": "和食",
+    "url": "https://www.kikkoman.co.jp/homecook/search/recipe/00053412/"
+  },
+  {
+    "name": "豚汁",
+    "ingredients": ["豚肉", "大根", "ごぼう", "にんじん", "ねぎ"],
+    "time": 40,
+    "type": "和食",
+    "url": "https://www.kikkoman.co.jp/homecook/search/recipe/00054365/"
+  },
+  {
+    "name": "カレーライス",
+    "ingredients": ["牛肉", "玉ねぎ", "じゃがいも", "にんじん", "カレールウ"],
+    "time": 40,
+    "type": "洋食",
+    "url": "https://housefoods.jp/recipe/rcp_00027252.html"
+  },
+  {
+    "name": "ハンバーグ",
+    "ingredients": ["ひき肉", "玉ねぎ", "卵", "牛乳"],
+    "time": 20,
+    "type": "洋食",
+    "url": "https://www.kikkoman.co.jp/homecook/search/recipe/00005802/"
+  },
+  {
+    "name": "オムライス",
+    "ingredients": ["ごはん", "鶏もも肉", "玉ねぎ", "ピーマン", "卵"],
+    "time": 20,
+    "type": "洋食",
+    "url": "https://www.kagome.co.jp/products/recipe/12267/"
+  },
+  {
+    "name": "ナポリタン",
+    "ingredients": ["パスタ", "ウインナー", "玉ねぎ", "ピーマン"],
+    "time": 20,
+    "type": "洋食",
+    "url": "https://www.kagome.co.jp/products/recipe/Z6900/"
+  },
+  {
+    "name": "クリームシチュー",
+    "ingredients": ["鶏もも肉", "玉ねぎ", "じゃがいも", "にんじん", "牛乳"],
+    "time": 20,
+    "type": "洋食",
+    "url": "https://housefoods.jp/recipe/special/microwave/rcp_00024742.html"
+  },
+  {
+    "name": "カルボナーラ",
+    "ingredients": ["パスタ", "ベーコン", "卵", "チーズ"],
+    "time": 10,
+    "type": "洋食",
+    "url": "https://www.kikkoman.co.jp/homecook/search/recipe/00055082/"
+  },
+  {
+    "name": "麻婆豆腐",
+    "ingredients": ["豆腐", "ひき肉", "ねぎ"],
+    "time": 20,
+    "type": "中華",
+    "url": "https://park.ajinomoto.co.jp/recipe/card/706036/"
+  },
+  {
+    "name": "回鍋肉",
+    "ingredients": ["豚肉", "キャベツ", "ピーマン", "ねぎ"],
+    "time": 20,
+    "type": "中華",
+    "url": "https://park.ajinomoto.co.jp/recipe/card/704735/"
+  },
+  {
+    "name": "青椒肉絲",
+    "ingredients": ["豚肉", "ピーマン"],
+    "time": 20,
+    "type": "中華",
+    "url": "https://park.ajinomoto.co.jp/recipe/card/706052/"
+  },
+  {
+    "name": "卵チャーハン",
+    "ingredients": ["ごはん", "卵", "ねぎ"],
+    "time": 10,
+    "type": "中華",
+    "url": "https://park.ajinomoto.co.jp/recipe/card/706045/"
+  },
+  {
+    "name": "八宝菜",
+    "ingredients": ["豚肉", "えび", "白菜", "しめじ", "ブロッコリー"],
+    "time": 25,
+    "type": "中華",
+    "url": "https://park.ajinomoto.co.jp/recipe/card/706049/"
+  },
+  {
+    "name": "ガパオライス",
+    "ingredients": ["ひき肉", "玉ねぎ", "ピーマン", "卵", "ごはん"],
+    "time": 15,
+    "type": "エスニック",
+    "url": "https://www.kikkoman.co.jp/homecook/search/recipe/00059229/"
+  },
+  {
+    "name": "グリーンカレー",
+    "ingredients": ["鶏もも肉", "なす", "ピーマン"],
+    "time": 30,
+    "type": "エスニック",
+    "url": "https://www.sbfoods.co.jp/recipe/detail/04440.html"
+  },
+  {
+    "name": "生春巻き",
+    "ingredients": ["えび", "もやし", "きゅうり"],
+    "time": 15,
+    "type": "エスニック",
+    "url": "https://park.ajinomoto.co.jp/recipe/card/703529/"
+  }
+]
